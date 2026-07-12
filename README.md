@@ -30,11 +30,11 @@
 
 :heavy_check_mark: ***NEW FEATURE*** [`cv::VideoWriter` supports jpg streaming over http](#cvvideowriter-supports-jpg-streaming-over-http)
 
-|opencv 4.13.0 package size|The official opencv|opencv-mobile|
+|opencv 5.0.0 package size|The official opencv|opencv-mobile|
 |:-:|:-:|:-:|
-|source zip|95.7 MB|8.44 MB|
-|android|303 MB|18.8 MB|
-|ios|88.7 MB|4.25 MB|
+|source zip|81.9 MB|9.07 MB|
+|android|303 MB|25 MB|
+|ios|42.1 MB|5.56 MB|
 
 
 <table>
